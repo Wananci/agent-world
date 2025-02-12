@@ -1,4 +1,4 @@
-# agent-world
+# Agent-World
 
 This is a repo of the agent-world work. 
 
