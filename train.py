@@ -56,7 +56,7 @@ def main(args):
         sequence_length=args.sequence_length,
         num_resampler_query=args.num_resampler_query,
         num_obs_token_per_image=args.num_obs_token_per_image,
-        input_image_size=args.calvin_input_image_size,
+        input_image_size=args.droid_input_image_size,
         patch_size=args.patch_size,
         action_pred_steps=args.action_pred_steps,
         obs_pred=args.obs_pred,

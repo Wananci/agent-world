@@ -44,7 +44,7 @@ bash scripts/droid/scratch.sh
 |Model|Path that you should put|
 |:------:|:------:|
 |[ViT-B-32](https://huggingface.co/Kleinhe/CAMD/resolve/main/weights/ViT-B-32.pt)|./checkpoints/clip/|
-|[mae_pretrain_vit_base](https://drive.google.com/drive/folders/1tYBcatJICNxciXZr5-H1hobd8dX3InT1)|./checkpoints/vit_mae/|
+|[mae_pretrain_vit_base](https://drive.google.com/file/d/1bSsvRI4mDM3Gg51C6xO0l9CbojYw3OEt/view)|./checkpoints/vit_mae/|
 
 ## 📆 TODO <a name="todos"></a>
 - [ ] Release agent-world test code. 
